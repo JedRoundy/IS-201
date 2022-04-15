@@ -1,0 +1,45 @@
+.common{
+    position:absolute;
+}
+.header{
+    top:0px;
+    left:0px;
+    right: 0px;
+    height: 75px;
+    color: white;
+    background-color:rgb(173, 196, 236);
+
+}
+.body{
+    top: 75px;
+    right:0px;
+    left:0px;
+    background-color: #a18101;
+    float:right;
+}
+.footer{
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 30px;
+    position: fixed;
+}
+.left_align{
+    float: left;
+}
+.right_align{
+    float:right;
+}
+
+a{
+    color:rgb(11, 5, 50);
+    text-decoration:none;
+    text-decoration-color: none;
+}
+
+.lighter_weight{
+    font-weight: lighter;
+}
+.new_roman{
+    font-family:'Times New Roman', Times, serif
+}

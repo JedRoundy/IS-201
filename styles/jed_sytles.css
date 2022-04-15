@@ -1,0 +1,17 @@
+.lighter_weight{
+    font-weight: lighter;
+}
+.normal_weight{
+    font-weight: normal;
+}
+.italicize{
+    font-style: italic;
+}
+.align_center{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.bold{
+    font-weight:200;
+}
